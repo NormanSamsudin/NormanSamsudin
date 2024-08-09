@@ -2,7 +2,7 @@
 - 👀 I’m interested in web and mobile app development
 - 🌱 I’m currently learning flutter
 - 💞️ I’m looking to collaborate on any project (to enhance my skill)
-- 📫 How to reach me gmail : 205770@student.upm.edu.my
+- 📫 How to reach me gmail : normansamsudin49@gmail.com
 
 <!---
 NormanSamsudin/NormanSamsudin is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
