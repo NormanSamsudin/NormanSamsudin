@@ -84,8 +84,8 @@
 
 ## 🙋‍♂️ Let's Connect
 <p align="center">
-  <a href="mailto:your-email@gmail.com"><img src="https://img.icons8.com/bubbles/50/000000/gmail.png" alt="Gmail"/></a>
-  <a href="https://linkedin.com/in/your-linkedin"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"/></a>
+  <a href="mailto:normansamsudin49@gmail.com"><img src="https://img.icons8.com/bubbles/50/000000/gmail.png" alt="Gmail"/></a>
+  <a href="https://www.linkedin.com/in/norman-samsudin-923b31231?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"/></a>
   <a href="https://github.com/NormanSamsudin"><img src="https://img.icons8.com/bubbles/50/000000/github.png" alt="GitHub"/></a>
 </p>
 
